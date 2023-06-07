@@ -1,8 +1,8 @@
-## Game description
+# Game description
 
 Reaction Time game, when the game is turned on, a random time is created and then after that random time occurs, a light either on the right or left side will turn on and the player will have to quickly push down the right or left button respectively.  The player then is scored on how quickly they pressed the button after it turned on.  If they don’t press the button a sour tone is played.
 
-# User inputs/outputs sheet
+## User inputs/outputs sheet
 
 “switch button” – turns the game on or off
 
