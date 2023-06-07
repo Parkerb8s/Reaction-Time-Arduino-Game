@@ -9,9 +9,3 @@ User inputs/outputs sheet
 “left button” – used to turn the left led off
 “serial print output” – used to tell the player how long they took to press the button after the led came on
 “speech output”  - speech output that tells the player how long & additionally Game on and off speech
-
-Async delay count evbery 1 ms check if expired and then add up to count
-Buttons are flags
-If expired end, else keeps counting
-Use stopwatch assignment
-
